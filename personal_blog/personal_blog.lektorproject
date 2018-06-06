@@ -1,0 +1,8 @@
+[project]
+name = personal_blog
+
+[servers.production]
+name=Production
+enabled=yes
+defeult=yes
+target=ghpages://Alisa-lisa/blog

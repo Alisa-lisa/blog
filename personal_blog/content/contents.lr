@@ -1,0 +1,48 @@
+title: About me:
+---
+body:
+
+##### Backend Dev, Data Engineer, Data Scientist
+### Kontakt:
+alisa.dammer@gmail.com
+
++4917680767743 (CET)
+
+![Me](me.png)
+
+### About me:
+My single biggest interest is data analysis. Most of all I am fascinated by neural networks and their usage in different spheres like image recognition, text classification and of course financial markets.
+
+During my first bachelor, I have gained a sufficient theoretical background in mathematics and statistics which allows me to work in scientific contexts without difficulties. During my second bachelor, I have gained a solid set of programming skills.
+
+In my spare time, I continue learning new things: online courses (from technical courses to neurobiology, cause it's cool), new languages and tech (blockchain and solidity were my recent adventure). I take part in GameJams quite frequently. 
+I do not forget about the body and soul: sport, meditation and all in all healthy lifestyle is a must. Recently I have started writing short blog posts on "How to make life better or at least easier" where I analyze different technical and non-technical things.
+
+
+### Technologies I use:
+* Programming languages: Python (Flask, uWSGI, Pytest, a bit of AsyncIO), Java (Dropwizard, Hibernate, Java8), R, JavaScript, Lua
+*  Markup Languages: HTML, CSS
+*  DBs: PostgreSQL, MySQL, BigQuery, ElasticSearch, Redis, Neo4j
+*  Financial data analysis: regressions, statistic tests, machine learning
+*  Text processing: simple ML (SVM, trees, Naive Bayes, RegexNER, LDA) with NLTK and Sklearn, NN with Tensorflow/Keras, Numpy, Pytorch
+*  Data visualization: d3.js, Matplotlib, GGplot, Plotly, Pygal
+*  Game development: python SGML, Lua love2d, javascript with phaser.js and panda.js
+*  Usual stuff: TDD, Docker, Git, Maven, Slack, Trello, Asana, Atlassian tools (Bitbucket, Jira, Confluence), Jenkins, Google Cloud Infrastructure, Gitlab, Linux
+
+### Additional Skills:
+* Natural languages: Russian (native speaker), German (fluent), English (fluent)
+* Graphic design: Krita, gimp, photoshop, Darktable, Aseprite, Inkscape
+* Helpful stuff: writing technical texts (docs, blogs, presentations), time management
+
+### Education:
+* 1997-2007: Gymnasium №3, Novosibirsk, Russian Federation 
+* 2007-2011: Novosibirsk State University, Economic Department, Economics 
+* 2011-2015: University Hamburg, MIN faculty, Information Systems Department
+
+### Professional Experience:
+* 2015-05 – 2015-08 Everbase AG: Working student, Graphics manipulation, design
+* 2015-08 – 2016-01 Eversolve: Working student, front-end developer (Angular.js, Bootstrap, JS)
+* 2016-04 – 2018-05 Joblift: Fulltime Software Developer (mostly backend development, some data engineering, data science, a little bit tracking)
+___
+
+

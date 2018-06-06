@@ -1,0 +1,89 @@
+title:
+
+Meal Kit Delivery - worth it? 
+---
+pub_date: 2018-06-05
+---
+author: Alisa Dammer
+---
+body:
+
+### What are Food delivery and original expectations?
+   Specific raw food delivery services became popular in Germany about four to five years ago. The idea of these services is very simple: you decide on the quantity and the type of the meals that will be delivered to you on the weekly basis. Normally the box consists of a number of raw products packages for the desired number of meals and the desired number of people. The differences between this delivery and your groceries shop delivery are that you get a very simple step by step explanation how to cook every meal for each package. Normally no meal preparation takes more than forty minutes. All groups of products are presented unless you have excluded some products in the settings before placing the order.
+   After using this service for a while I decided to actually analyze the effects on my life. Before starting the in-depth analysis I had several assumptions: 
+*  I'm spending less money on food (groceries, eating out).
+*  I've started eating healthier.
+*  Cooking got mentally easier.
+I will analyze every assumption in-depth with all the data have. For this comparison, similar time frames are used: from 11.2016-05.2017 to 11.2017-05.2018. All cost are computed for two young adults. Every week a box contained three meals for two people. Later on in this post, any Food Delivery Service will be signed as FD.
+Some assumptions can be neither proved nor disapproved due to their personal nature and no real data available for the chosen time frames.
+
+### Analysis of the Financial Aspect.
+   Before introducing the graphs one mention is important: there is a certain error in the financial aggregations and filters since all data points were collected manually. Some of the transactions were collected after the actual transaction took place. However, this error should not influence the overall results too much.
+
+![Groceries total cost](SUM_Groceries.png)
+###### Total spending for groceries
+![Groceries shopping total number](COUNT_Groceries.png)
+###### Number of shopping events
+   As you can see the total groceries cost grew with the FD usage by about 38% where the actual cost for other groceries excluding FD decreased by around 28%. This means that now I have an additional financial burden of 10% in comparison to the previous cost level. Additionally, there is a minor decrease in the total number of groceries shopping, meaning this factor is not important. This result might be explained through further necessity to buy breakfast, snacks products and also cook for other three to four days. Another cost increase factor might be explained by changed nutrition habits, this will be discussed in the section below.
+
+\begin{multicols}{2}
+\begin{wrapfigure}{\linewidth}
+\includegraphics[width=\linewidth]{SUM_Eating_Out.png}\\
+\caption{Total spending for restaurants}
+\end{wrapfigure}
+
+\columnbreak
+
+\begin{wrapfigure}{\linewidth}
+\includegraphics[width=\linewidth]{COUNT_Eating_Out.png}\\
+\caption{Number of restaurants visits}
+\end{wrapfigure}
+\end{multicols}
+Similar to the groceries statistics the total cost of eating out (excluding lunch with colleagues and breakfast at work) increased by around 38\%. At the same time eating out on work behaviour did not change at all. The slight total cost increase can be explained by new restaurants in the office proximity and inflation of around 2\%. A possible explanation for increased cost of eating out is an increased desire to try something new and not to cook at home. Also, the total number of going out hasn't increased that much in comparison to the sum spent, meaning the class of the restaurants has increased.
+
+\begin{multicols}{2}
+\begin{wrapfigure}{\linewidth}
+\includegraphics[width=\linewidth]{AVG_Groceries_without_FD.png}\\
+\caption{AVG groceries cost}
+\end{wrapfigure}
+
+\columnbreak
+
+\begin{wrapfigure}{\linewidth}
+\includegraphics[width=\linewidth]{MAX_Groceries_without_FD.png}\\
+\caption{MAX groceries check}
+\end{wrapfigure}
+\end{multicols}
+As seen on the average and maximum graphs the shopping has changed a bit. The average groceries bucket now cost less by 21\%. Maximum groceries bucket has also decreased by 43\% signaling that the habit shopping in advance did not progress with the FD usage.\\
+So far it seems that financially FD is rather a large burden on the budget. 
+
+
+\section{Healthier nutrition}
+Another assumption made by me during FD usage was that I now eat healthier. To prove this point I will compare the structure of an average shopping list (I will not show any checks in this post, so you have to believe me), amount of fresh cooking (the opposite would be fast food, TV-dinners and other frozen meals), changed nutrition habits. 
+\subsection{Groceries structure}
+My average shopping list has changed a bit. About 20\% of the positions disappeared or appear less frequent. For instance, I now buy less sweets: chocolate, pies, frozen pies and sweetened drinks. The main part still belongs to the diary products like milk, eggs, cheese. Meat products are now chosen rather carefully, meaning I plan first on what I cook and afterwards buy everything according to the list. Before using FD the process was rather backwards: I was buying products that might be used in different dishes and afterwards at home I would choose what can I actually cook. Vegetables and fruits are present in an average shopping list in about the same proportion as before. Alcohol and certain amount of sweet things is also present and is bought on occasion.\\
+All in all it looks like now I am prone to buy a bit less in general, at the same time frozen pizza, TV-dinners are rare guests in my fridge.
+
+\subsection{Cooking fresh}
+The minimum amount of cooking a fresh meal is now at least at 3 times a week due to the FD configuration. On other days I tend to cook in advance: stew, chili, eintopf, pasta - are the things to go due to the minimum amount of work required and how many portions you get in the end. Frozen food and instant noodles are being used when there was an agreement to cook later on but the hunger has already arrived, sometimes there is no time or the hunger is not that bad. If a year ago I would use up 3-4 frozen pizzas in a week, during FD usage this number declined to 1-2 pizza per week.\\
+According to the financial analysis the total number of going out increased, but the amount of proper cooking increased as well, which synergies well with the assumption about better nutrition habits.
+
+\subsection{Nutrition habits}
+Since FD usage I got a hobbit of planning in advance what to eat and cook. This change allowed me to better balance the nutrients like fat, carbohydrates and protein. Additionally,
+different side-dish and main dish combinations as well as new forms of side-dishes allowed me to use more combinations to keep the nutritional balance. According to the FitnessPal (where I try to keep an eye on my calories and the food structure) I now make less spontaneous decisions to eat a muffin or some additional bakery piece during my work. Since I already pay quite a lot for the healthy food I might as well support the trend in the rest of the week. For me personally it is now easier to eat less sweets or to overeat in the evening. It is easier to keep an eye on the total calories due to the full information provided by the FD service. \\
+So, as a a help to kick start a healthier food habits such a service comes very handy. The information provided by the FD about the nutrition value of the weekly box makes it easier to plan out your food consumption and preparation several days ahead.
+
+
+\section{Fun}
+The last assumption about a FD value was its influence of the amount and joy of cooking. I personally like following really simple instructions and being able to prepare a delicious meal. However there is a certain problem connected with the need to cook at home. My thoughts about the FD value is rather sinus-like function. In the beginning you like that you cook and eat healthier and nominally spend less money on eating out or buying fast food. After a while you get tired of cooking all the time, but you still like the healthy eating trend plus the recipes are quite nice, so you start going out a bit more and choose the dishes that you can't really cook at home. After some time you start to notice that the nutrition cost has risen, so you start to cook again more at home. This trend might be very obvious or sometimes not that clear if the dishes are amazing and hit your sweet spot.\\
+This question is rather a tricky and personal one to answer. I personally have less stress during cooking process and I am able to decide to cook at home after work a bit easily. I am also very satisfied when I'm in control of when and what I eat. Cooking together with a partner or a friend also got a bit easier and more entertaining.
+
+
+\section{Conclusion}
+After weighting all positive and negative things about FD, I might have changed my mind. Before starting this blog post I was hundred percent pro FD, however the actual value of the service turned out to be a complex matter.\\
+The in-depth analysis of the initial assumptions resulted in one being completely destroyed, one being very personal and one being rather neutral than positive. The financial assumption proved to wrong, which is a rather important point for me. One specific service I use is not the most expensive one but it turned out to create a very heavy burden on my budget. The analysis of the healthier nutrition assumption turned out to be very situational and rather a personal matter that is very hard to quantify without hard data. I would think about this point twice before deciding for a FD. The fun assumption is nominally hold true, but due to cyclic mood connected with cooking at home often makes this point very personal and not hundred percent valid. \\
+I personally value increased control over my nutrition habits higher than the nominal cost of a weekly box. I like the variety of the recipes I get to choose and the low repetition ratio. The combination of the products contain rare or rather daring things which creates a fun-component. \\
+As the conclusion I would recommend to use a raw food delivery service from four to twelve month straight, if the increased food cost is not of a big concern. Within this time you will collect cool recipes, check them out and you will be able to gain control over you nutrition. This time horizon should be enough to create a healthy eating habit, increase your cooking skill and get used to cooking at home. 
+
+---
+twitter_handle: FedorinoGore_90
