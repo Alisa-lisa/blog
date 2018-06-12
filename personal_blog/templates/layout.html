@@ -4,20 +4,20 @@
 <title>{% block title %}Welcome{% endblock %} to my personal page</title>
 <body>
   <header>
-    <h1>Data Unicorn</h1>
-    <nav>
-      <ul class="nav navbar-nav">
-        <li{% if this._path == '/' %} class="active"{% endif
-          %}><a href="{{ '/'|url }}">About</a></li>
-        {% for href, title in [
-          ['/blog', 'Blog'],
-          ['/projects', 'Projects'],
-        ] %}
-          <li{% if this.is_child_of(href) %} class="active"{% endif
-            %}><a href="{{ href|url }}">{{ title }}</a></li>
-        {% endfor %}
-      </ul>
-    </nav>
+      	  <h1>Data Unicorn</h1>
+	  <nav>
+      	    <ul class="nav navbar-nav">
+       	      <li{% if this._path == '/' %} class="active"{% endif
+                 %}><a href="{{ '/'|url }}">About</a></li>
+                 {% for href, title in [
+                 ['/blog', 'Blog'],
+                 ['/projects', 'Projects'],
+                 ] %}
+              <li{% if this.is_child_of(href) %} class="active"{% endif
+                 %}><a href="{{ href|url }}">{{ title }}</a></li>
+                 {% endfor %}
+            </ul>
+          </nav>
   </header>
   <div class="page">
     {% block body %}{% endblock %}

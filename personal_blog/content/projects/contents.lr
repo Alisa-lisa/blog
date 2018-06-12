@@ -1,9 +1,45 @@
-title: Projects
+title: Projects and Events
 ---
 body:
 
-This is a list of the projects:
+## Technical projects I took part in:
 
-* Project 1
-* Project 2
-* Project 3
+##### NN-generator
+source: `https://github.com/Alisa-lisa/nn_generator`
+pip installation: `pip install nn-generator`
+short description: pass a JSON configuration for the network (depth, size, hyperparameters, etc.) and concentrate mainly on the input data.
+
+##### LogsParser (WIP)
+source: `https://github.com/Alisa-lisa/LogsParser`
+short description: NGNX logs parser to detect the heographical statistics of incoming IPs.
+
+##### GameJam (Game Design, Graphics)
+source: `https://github.com/svenstaro/innojam8`
+game: `http://hyper-oktagon.github.io/`
+short description: try to stay on the glitchy platform during being attacked by asteroids!
+
+##### Secon Bachelor Thesis
+source: `https://github.com/Alisa-lisa/uni-stuff/tree/master/Bachelor`
+short description: comparison of R and Python as first programming languages for a data scientist based on formal criteria.
+
+##### CPU emulation with MyHDL
+source: `https://github.com/svenstaro/uni/tree/master/proj`
+short description: simple CPU simulation with a python library called MyHDL (university project).
+
+##### Smart Budgeting (WIP)
+source: `https://github.com/Alisa-lisa/FinReporter`
+short description: simple and in-depth financial analysis of your spendings (deployable and as a script).
+
+
+## Conferences
+
+##### Europython 2017:
+Topic: Baby steps in a short-text classification with python.
+link: `https://youtu.be/5ExfLYdYzQE`
+short description: 30 minutes talk on where have I started in NLP and what one without almost any background can do. This topic covers questions from data pre-cleaning, model creation, model deployment.
+
+##### DevDays Vilnius (no video, slides only)
+Topic: Data is not flat.
+source: `https://devdays.lt/wp-content/uploads/2018/06/Alisa-Dammer-Data-is-not-Flat-min.pdf`
+short description: When to use ML and DL, what can you do if there is not enough data or the data is low-dimensional? The talk shows two cases of how feature-unpacking works (NN and RandomForest models are used).
+
